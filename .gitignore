@@ -1,3 +1,5 @@
 *.txt
 *.json
+*.mecab
+*.ipynb
 __pycache__
