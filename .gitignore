@@ -2,6 +2,8 @@
 *.json
 *.mecab
 *.csv
+*.bin
+*.tab
 ch4/*.ipynb
 ch5/*.ipynb
 __pycache__
