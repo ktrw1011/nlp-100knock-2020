@@ -1,5 +1,5 @@
 def ngram(x, n):
-    transpose = list(zip(*[x[i:] for i in  range(2)]))
+    transpose = list(zip(*[x[i:] for i in  range(n)]))
     return [g for g in transpose]
 
 
